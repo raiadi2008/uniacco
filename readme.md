@@ -20,7 +20,7 @@ endpoint = http://127.0.0.1:8000/api/users/login
 
 format
 {
-    "username": "<username>"
+    "username": "<username>",
     "password": "<password>"
 }
 
@@ -30,6 +30,6 @@ endpoint = http://127.0.0.1:8000/api/users/login
 
 format
 {
-    "username": "<username>"
+    "username": "<username>",
     "password": "<password>"
 }

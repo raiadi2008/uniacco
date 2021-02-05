@@ -4,7 +4,7 @@ cd to backend folder where manage.py lived
 run following comand <br/>
 
 python -m venv env <br/>
-env/Scripts/active <br/>
+env/Scripts/activate <br/>
 pip install django <br/>
 pip install djangorestframework <br/>
 pip install djangorestframework-simplejwt <br/>
